@@ -1,5 +1,5 @@
 ### Hi there 👋
-⚡I'm 18 years old.
+⚡My name is 'Ahmet Eren' and I'm 18 years old.
 
 🔭 I’m currently working on frontend and backend technologies.
 
