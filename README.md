@@ -1,6 +1,7 @@
 ### Hi there 👋
+⚡I'm 18 years old.
 
-🔭 I’m currently working on frontend and backend technologys 
+🔭 I’m currently working on frontend and backend technologies.
 
 📫 How to reach me => aesweb@gmail.com
 <!--
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  Fun fact: ...
 -->
 
 
