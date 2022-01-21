@@ -3,7 +3,7 @@
 
 🔭 I’m currently working on frontend and backend technologies.
 
-📫 How to reach me => aesweb@gmail.com
+📫 How to reach me => aes.sncr@gmail.com
 <!--
 **aesweb/aesweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
